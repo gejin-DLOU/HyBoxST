@@ -5,7 +5,6 @@ HyBoxST predicts spatial gene expression from histology images using spot- and n
 | Model name | Description |
 | --- | --- |
 | `hyboxst` | Full model with pathway-guided decoding, molecular ontology boxes, and query-box prediction. |
-| `hyboxst_base` | Base model without the pathway/box extension. |
 
 ## 🛠️ Installation
 
