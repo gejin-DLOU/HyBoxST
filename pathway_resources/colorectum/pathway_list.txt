@@ -1,0 +1,184 @@
+Activation of Matrix Metalloproteinases
+Adaptive Immune System
+Aerobic respiration and respiratory electron transport
+Affinity selection of immunoglobulins
+Amyloid fiber formation
+Anti-inflammatory response favouring Leishmania parasite infection
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+Antigen processing-Cross presentation
+Antimicrobial mechanism of IFN-stimulated genes
+Antimicrobial peptides
+Assembly of collagen fibrils and other multimeric structures
+Attachment of bacteria to epithelial cells
+Axon guidance
+Bacterial Infection Pathways
+Binding and Uptake of Ligands by Scavenger Receptors
+Biofilm formation
+C-type lectin receptors (CLRs)
+CD22 mediated BCR regulation
+Cell junction organization
+Cell surface interactions at the vascular wall
+Cell-Cell communication
+Cell-cell junction organization
+Cellular response to chemical stress
+Cellular responses to stimuli
+Cellular responses to stress
+Class I MHC mediated antigen processing & presentation
+Classical antibody-mediated complement activation
+Co-inhibition by PD-1
+Collagen biosynthesis and modifying enzymes
+Collagen chain trimerization
+Collagen degradation
+Collagen formation
+Complement cascade
+Creation of C4 and C2 activators
+Cytokine Signaling in Immune system
+Cytoprotection by HMOX1
+Dectin-2 family
+Defective C1GALT1C1 causes TNPS
+Defective GALNT12 causes CRCS1
+Defective GALNT3 causes HFTC
+Degradation of the extracellular matrix
+Dengue Virus Infection
+Developmental Biology
+Developmental Cell Lineages
+Developmental Cell Lineages of the Exocrine Pancreas
+Developmental Lineage of Pancreatic Ductal Cells
+Developmental Lineage of Pancreatic Endocrine Mid Progenitor Cells
+Disease
+Diseases associated with O-glycosylation of proteins
+Diseases of glycosylation
+Diseases of metabolism
+Diseases of signal transduction by growth factor receptors and second messengers
+Downstream TCR signaling
+ECM proteoglycans
+ER-Phagosome pathway
+ESR-mediated signaling
+Estrogen-dependent gene expression
+Extracellular matrix organization
+FCERI mediated Ca+2 mobilization
+FCERI mediated MAPK activation
+FCGR activation
+FCGR3A-mediated IL10 synthesis
+FCGR3A-mediated phagocytosis
+Fc epsilon receptor (FCERI) signaling
+Fcgamma receptor (FCGR) dependent phagocytosis
+Fibronectin matrix formation
+Formation of the cornified envelope
+GPCR downstream signalling
+Gene expression (Transcription)
+Generation of second messenger molecules
+Generic Transcription Pathway
+Hemostasis
+Immune System
+Immunoglobulin maturation
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+Infection with Enterobacteria
+Infectious disease
+Initial triggering of complement
+Innate Immune System
+Integrin cell surface interactions
+Interferon Signaling
+Interferon alpha/beta signaling
+Interferon gamma signaling
+Interleukin-4 and Interleukin-13 signaling
+Ion channel transport
+Keratinization
+Leishmania infection
+Leishmania parasite growth and survival
+Leishmania phagocytosis
+MAPK family signaling cascades
+MET activates PTK2 signaling
+MET promotes cell motility
+MHC class II antigen presentation
+Membrane Trafficking
+Metabolism
+Metabolism of amino acids and derivatives
+Metabolism of carbohydrates and carbohydrate derivatives
+Metabolism of proteins
+Muscle contraction
+NCAM signaling for neurite out-growth
+NCAM1 interactions
+NGF-stimulated transcription
+Nervous system development
+Neutrophil degranulation
+Non-integrin membrane-ECM interactions
+Nuclear Events (kinase and transcription factor activation)
+O-linked glycosylation
+O-linked glycosylation of mucins
+Parasite infection
+Parasitic Infection Pathways
+Phosphorylation of CD3 and TCR zeta chains
+Platelet activation, signaling and aggregation
+Platelet degranulation
+Post-translational protein modification
+Post-translational protein phosphorylation
+Potential therapeutics for SARS
+Processing of antigen in germinal center B cells
+Programmed Cell Death
+RHO GTPase Effectors
+RHO GTPase cycle
+RHO GTPases activate PKNs
+RNA Polymerase II Transcription
+Regulation of Complement cascade
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+Regulation of T cell activation by CD28 family
+Regulation of actin dynamics for phagocytic cup formation
+Respiratory electron transport
+Response to elevated platelet cytosolic Ca2+
+Role of phospholipids in phagocytosis
+SARS-CoV Infections
+SARS-CoV-2 Infection
+SARS-CoV-2 activates/modulates innate and adaptive immune responses
+SARS-CoV-2-host interactions
+Scavenging by Class A Receptors
+Scavenging of heme from plasma
+Signal Transduction
+Signaling by GPCR
+Signaling by Interleukins
+Signaling by MET
+Signaling by NTRK1 (TRKA)
+Signaling by NTRKs
+Signaling by Nuclear Receptors
+Signaling by PDGF
+Signaling by Receptor Tyrosine Kinases
+Signaling by Rho GTPases
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+Signaling by TGFB family members
+Signaling by the B Cell Receptor (BCR)
+Syndecan interactions
+TCR signaling
+TP53 Regulates Metabolic Genes
+Termination of O-glycan biosynthesis
+Transcriptional Regulation by TP53
+Translocation of ZAP-70 to Immunological synapse
+Transport of small molecules
+Vesicle-mediated transport
+Viral Infection Pathways
+TNF-alpha Signaling via NF-kB
+Hypoxia
+TGF-beta Signaling
+IL-6/JAK/STAT3 Signaling
+Apoptosis
+Adipogenesis
+Estrogen Response Early
+Estrogen Response Late
+Androgen Response
+Myogenesis
+Interferon Alpha Response
+Interferon Gamma Response
+Apical Junction
+Complement
+mTORC1 Signaling
+Epithelial Mesenchymal Transition
+Xenobiotic Metabolism
+Oxidative Phosphorylation
+Glycolysis
+p53 Pathway
+UV Response Up
+UV Response Dn
+Angiogenesis
+Coagulation
+IL-2/STAT5 Signaling
+Allograft Rejection

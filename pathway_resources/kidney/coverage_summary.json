@@ -1,0 +1,35 @@
+{
+  "selected_gene_count": 200,
+  "pathway_count": 178,
+  "min_overlap": 5,
+  "covered_gene_count": 182,
+  "covered_gene_ratio": 0.91,
+  "uncovered_gene_count": 18,
+  "uncovered_genes": [
+    "TPT1",
+    "S100A6",
+    "MALAT1",
+    "TMSB10",
+    "NEAT1",
+    "PODXL",
+    "ADGRG1",
+    "MAL",
+    "S100A2",
+    "DSTN",
+    "TMA7",
+    "SPINK1",
+    "PPP1R1A",
+    "TSPAN1",
+    "LAPTM4A",
+    "ENG",
+    "CIRBP",
+    "OGDHL"
+  ],
+  "overlap_count_min": 5,
+  "overlap_count_max": 67,
+  "overlap_count_mean": 11.191011235955056,
+  "gmt_files": [
+    "..\\png_txt\\raw\\reactome_official\\ReactomePathways.gmt",
+    "..\\png_txt\\raw\\enrichr_MSigDB_Hallmark_2020.gmt"
+  ]
+}

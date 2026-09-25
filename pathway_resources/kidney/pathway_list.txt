@@ -1,0 +1,178 @@
+Activation of STAT3 by cadherin engagement
+Adaptive Immune System
+Adherens junctions interactions
+Aerobic respiration and respiratory electron transport
+Affinity selection of immunoglobulins
+Amyloid fiber formation
+Anti-inflammatory response favouring Leishmania parasite infection
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC
+Antigen processing-Cross presentation
+Antimicrobial mechanism of IFN-stimulated genes
+Asparagine N-linked glycosylation
+Assembly of collagen fibrils and other multimeric structures
+Autophagy
+Axon guidance
+Bacterial Infection Pathways
+Binding and Uptake of Ligands by Scavenger Receptors
+Biological oxidations
+Cell junction organization
+Cell surface interactions at the vascular wall
+Cell-Cell communication
+Cell-cell junction organization
+Cellular response to chemical stress
+Cellular response to heat stress
+Cellular responses to stimuli
+Cellular responses to stress
+Chaperone Mediated Autophagy
+Class I MHC mediated antigen processing & presentation
+Classical antibody-mediated complement activation
+Clathrin-mediated endocytosis
+Co-inhibition by PD-1
+Collagen formation
+Complement cascade
+Complex I biogenesis
+Complex IV assembly
+Creation of C4 and C2 activators
+Cytokine Signaling in Immune system
+Cytoprotection by HMOX1
+Degradation of the extracellular matrix
+Dengue Virus Genome Translation and Replication
+Dengue Virus Infection
+Dengue Virus-Host Interactions
+Detoxification of Reactive Oxygen Species
+Developmental Biology
+Disease
+Diseases of metabolism
+Diseases of signal transduction by growth factor receptors and second messengers
+Disorders of transmembrane transporters
+Drug ADME
+ECM proteoglycans
+EPH-Ephrin signaling
+ER-Phagosome pathway
+ESR-mediated signaling
+Endosomal/Vacuolar pathway
+Eukaryotic Translation Elongation
+Extracellular matrix organization
+FCERI mediated NF-kB activation
+FCGR activation
+FCGR3A-mediated IL10 synthesis
+FCGR3A-mediated phagocytosis
+Fc epsilon receptor (FCERI) signaling
+Fcgamma receptor (FCGR) dependent phagocytosis
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation
+Gene expression (Transcription)
+Generic Transcription Pathway
+HIV Infection
+Hemostasis
+Host Interactions of HIV factors
+Immune System
+Immunoglobulin maturation
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+Infectious disease
+Influenza Infection
+Initial triggering of complement
+Innate Immune System
+Interferon Signaling
+Interferon alpha/beta signaling
+Interferon gamma signaling
+Interleukin-12 family signaling
+Interleukin-12 signaling
+Interleukin-4 and Interleukin-13 signaling
+Ion channel transport
+L1CAM interactions
+Leishmania infection
+Leishmania parasite growth and survival
+Leishmania phagocytosis
+MAPK family signaling cascades
+MHC class II antigen presentation
+Macroautophagy
+Membrane Trafficking
+Metabolism
+Metabolism of RNA
+Metabolism of amino acids and derivatives
+Metabolism of carbohydrates and carbohydrate derivatives
+Metabolism of lipids
+Metabolism of proteins
+Mitochondrial biogenesis
+Mitochondrial protein degradation
+Muscle contraction
+Nervous system development
+Neutrophil degranulation
+Non-integrin membrane-ECM interactions
+Organelle biogenesis and maintenance
+Parasite infection
+Parasitic Infection Pathways
+Platelet activation, signaling and aggregation
+Platelet degranulation
+Post-translational protein modification
+Post-translational protein phosphorylation
+Potential therapeutics for SARS
+Processing of Capped Intron-Containing Pre-mRNA
+Processing of antigen in germinal center B cells
+Protein localization
+RHO GTPase Effectors
+RHO GTPase cycle
+RHO GTPases Activate Formins
+RNA Polymerase II Transcription
+Regulation of CDH1 Expression and Function
+Regulation of CDH1 Function
+Regulation of Complement cascade
+Regulation of Expression and Function of Type I Classical Cadherins
+Regulation of Homotypic Cell-Cell Adhesion
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+Regulation of T cell activation by CD28 family
+Regulation of actin dynamics for phagocytic cup formation
+Respiratory electron transport
+Response to elevated platelet cytosolic Ca2+
+Role of phospholipids in phagocytosis
+SARS-CoV Infections
+SARS-CoV-1 Infection
+SARS-CoV-2 Infection
+SARS-CoV-2 activates/modulates innate and adaptive immune responses
+SARS-CoV-2-host interactions
+SLC-mediated transmembrane transport
+Scavenging by Class A Receptors
+Scavenging of heme from plasma
+Selective autophagy
+Semaphorin interactions
+Sensory Perception
+Signal Transduction
+Signaling by Interleukins
+Signaling by Nuclear Receptors
+Signaling by Receptor Tyrosine Kinases
+Signaling by Rho GTPases
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+Signaling by the B Cell Receptor (BCR)
+Smooth Muscle Contraction
+TP53 Regulates Metabolic Genes
+Transcriptional Regulation by TP53
+Translation
+Transport of small molecules
+Vesicle-mediated transport
+Viral Infection Pathways
+mRNA 3'-end processing
+mRNA Polyadenylation
+mRNA Splicing
+mRNA Splicing - Major Pathway
+Hypoxia
+Apoptosis
+Adipogenesis
+Estrogen Response Late
+Myogenesis
+Interferon Alpha Response
+Interferon Gamma Response
+Complement
+mTORC1 Signaling
+Myc Targets V1
+Epithelial Mesenchymal Transition
+Fatty Acid Metabolism
+Oxidative Phosphorylation
+Glycolysis
+Reactive Oxygen Species Pathway
+p53 Pathway
+Angiogenesis
+heme Metabolism
+Coagulation
+IL-2/STAT5 Signaling
+Allograft Rejection
+KRAS Signaling Dn

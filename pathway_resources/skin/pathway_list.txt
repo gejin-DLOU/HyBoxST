@@ -1,0 +1,233 @@
+AUF1 (hnRNP D0) binds and destabilizes mRNA
+Activation of STAT3 by cadherin engagement
+Adaptive Immune System
+Adherens junctions interactions
+Aerobic respiration and respiratory electron transport
+Affinity selection of immunoglobulins
+Aggrephagy
+Amyloid fiber formation
+Antigen processing-Cross presentation
+Antimicrobial mechanism of IFN-stimulated genes
+Antimicrobial peptides
+Apoptosis
+Apoptotic cleavage of cellular proteins
+Apoptotic execution phase
+Asparagine N-linked glycosylation
+Attenuation phase
+Autophagy
+Axon guidance
+Bacterial Infection Pathways
+Beta-catenin independent WNT signaling
+Binding and Uptake of Ligands by Scavenger Receptors
+C-type lectin receptors (CLRs)
+Cell Cycle
+Cell Cycle Checkpoints
+Cell Cycle, Mitotic
+Cell junction organization
+Cell surface interactions at the vascular wall
+Cell-Cell communication
+Cell-cell junction organization
+Cellular Senescence
+Cellular response to chemical stress
+Cellular response to heat stress
+Cellular responses to stimuli
+Cellular responses to stress
+Chaperone Mediated Autophagy
+Class I MHC mediated antigen processing & presentation
+Clathrin-mediated endocytosis
+Co-inhibition by PD-1
+Collagen biosynthesis and modifying enzymes
+Collagen degradation
+Collagen formation
+Complex IV assembly
+Cytokine Signaling in Immune system
+Cytoprotection by HMOX1
+DAP12 interactions
+DDX58/IFIH1-mediated induction of interferon-alpha/beta
+DNA Repair
+Death Receptor Signaling
+Degradation of the extracellular matrix
+Dengue Virus Genome Translation and Replication
+Dengue Virus Infection
+Dengue Virus-Host Interactions
+Developmental Biology
+Disease
+Diseases of metabolism
+Diseases of signal transduction by growth factor receptors and second messengers
+Downstream TCR signaling
+Downstream signaling events of B Cell Receptor (BCR)
+EPH-Ephrin signaling
+EPHB-mediated forward signaling
+ER-Phagosome pathway
+ESR-mediated signaling
+Estrogen-dependent gene expression
+Eukaryotic Translation Elongation
+Extracellular matrix organization
+FCGR3A-mediated phagocytosis
+Factors involved in megakaryocyte development and platelet production
+Fc epsilon receptor (FCERI) signaling
+Fcgamma receptor (FCGR) dependent phagocytosis
+Formation of the cornified envelope
+G2/M Checkpoints
+G2/M Transition
+Gap junction trafficking
+Gap junction trafficking and regulation
+Gene expression (Transcription)
+Generic Transcription Pathway
+HIV Infection
+HIV Life Cycle
+HSF1 activation
+HSF1-dependent transactivation
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+Hedgehog 'off' state
+Hemostasis
+Host Interactions of HIV factors
+Immune System
+Immunoglobulin maturation
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+Infection with Mycobacterium tuberculosis
+Infectious disease
+Influenza Infection
+Innate Immune System
+Interferon Signaling
+Interferon alpha/beta signaling
+Interferon gamma signaling
+Intracellular signaling by second messengers
+Ion channel transport
+Iron uptake and transport
+Keratinization
+L1CAM interactions
+Late Phase of HIV Life Cycle
+Late endosomal microautophagy
+Leishmania infection
+Leishmania phagocytosis
+M Phase
+MAPK family signaling cascades
+MAPK1/MAPK3 signaling
+MAPK6/MAPK4 signaling
+MHC class II antigen presentation
+Macroautophagy
+Membrane Trafficking
+Metabolism
+Metabolism of RNA
+Metabolism of carbohydrates and carbohydrate derivatives
+Metabolism of lipids
+Metabolism of proteins
+Mitochondrial protein degradation
+Mitotic Anaphase
+Mitotic G2-G2/M phases
+Mitotic Metaphase and Anaphase
+Muscle contraction
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+Nervous system development
+Neuronal System
+Neutrophil degranulation
+Non-integrin membrane-ECM interactions
+Nucleotide Excision Repair
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
+Oncogenic MAPK signaling
+Organelle biogenesis and maintenance
+Oxidative Stress Induced Senescence
+PCP/CE pathway
+Parasite infection
+Parasitic Infection Pathways
+Platelet activation, signaling and aggregation
+Platelet degranulation
+Post-translational protein modification
+Processing of Capped Intron-Containing Pre-mRNA
+Processing of antigen in germinal center B cells
+Programmed Cell Death
+Protein localization
+Pyruvate metabolism
+RAF/MAP kinase cascade
+RHO GTPase Effectors
+RHO GTPase cycle
+RHO GTPases Activate Formins
+RHO GTPases activate IQGAPs
+RHO GTPases activate PKNs
+RNA Polymerase II Transcription
+RSV-host interactions
+Regulated Necrosis
+Regulation of CDH1 Expression and Function
+Regulation of CDH1 Function
+Regulation of Expression and Function of Type I Classical Cadherins
+Regulation of Homotypic Cell-Cell Adhesion
+Regulation of PLK1 Activity at G2/M Transition
+Regulation of T cell activation by CD28 family
+Regulation of actin dynamics for phagocytic cup formation
+Regulation of expression of SLITs and ROBOs
+Regulation of mRNA stability by proteins that bind AU-rich elements
+Regulation of pyruvate metabolism
+Respiratory Syncytial Virus Infection Pathway
+Respiratory electron transport
+Response to elevated platelet cytosolic Ca2+
+Ribosome-associated quality control
+SARS-CoV Infections
+SARS-CoV-1 Infection
+SARS-CoV-1-host interactions
+SARS-CoV-2 Infection
+SARS-CoV-2 activates/modulates innate and adaptive immune responses
+SARS-CoV-2-host interactions
+Scavenging by Class A Receptors
+Selective autophagy
+Semaphorin interactions
+Separation of Sister Chromatids
+Signal Transduction
+Signaling by BRAF and RAF1 fusions
+Signaling by FGFR
+Signaling by FGFR2
+Signaling by Hedgehog
+Signaling by Interleukins
+Signaling by MET
+Signaling by NOTCH
+Signaling by Nuclear Receptors
+Signaling by ROBO receptors
+Signaling by Receptor Tyrosine Kinases
+Signaling by Rho GTPases
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+Signaling by VEGF
+Signaling by WNT
+Signaling by the B Cell Receptor (BCR)
+Somatic hypermutation of immunoglobulin genes
+TCF dependent signaling in response to WNT
+TCR signaling
+TP53 Regulates Metabolic Genes
+The role of GTSE1 in G2/M progression after G2 checkpoint
+Toll Like Receptor 2 (TLR2) Cascade
+Toll Like Receptor 4 (TLR4) Cascade
+Toll Like Receptor TLR1:TLR2 Cascade
+Toll Like Receptor TLR6:TLR2 Cascade
+Toll-like Receptor Cascades
+Transcriptional Regulation by TP53
+Transcriptional regulation by RUNX1
+Transcriptional regulation by RUNX2
+Translation
+Translocation of SLC2A4 (GLUT4) to the plasma membrane
+Transmission across Chemical Synapses
+Transport of small molecules
+Uptake and actions of bacterial toxins
+VEGFA-VEGFR2 Pathway
+Vesicle-mediated transport
+Viral Infection Pathways
+mRNA 3'-end processing
+mRNA Polyadenylation
+p75 NTR receptor-mediated signalling
+Hypoxia
+Cholesterol Homeostasis
+Apoptosis__dup1
+Adipogenesis
+Estrogen Response Late
+Interferon Alpha Response
+Interferon Gamma Response
+Apical Junction
+Complement
+PI3K/AKT/mTOR  Signaling
+mTORC1 Signaling
+Myc Targets V1
+Epithelial Mesenchymal Transition
+Oxidative Phosphorylation
+Glycolysis
+p53 Pathway
+UV Response Dn
+Allograft Rejection
+KRAS Signaling Dn

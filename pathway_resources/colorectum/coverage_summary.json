@@ -1,0 +1,41 @@
+{
+  "selected_gene_count": 200,
+  "pathway_count": 184,
+  "min_overlap": 5,
+  "covered_gene_count": 176,
+  "covered_gene_ratio": 0.88,
+  "uncovered_gene_count": 24,
+  "uncovered_genes": [
+    "S100A6",
+    "TPT1",
+    "FCGBP",
+    "PTMA",
+    "SPINK4",
+    "PHGR1",
+    "LGALS4",
+    "MALAT1",
+    "TSPAN8",
+    "TSPAN1",
+    "ZG16",
+    "ITM2C",
+    "C15orf48",
+    "REG4",
+    "SPINK1",
+    "TSPAN3",
+    "FAM3D",
+    "C19orf33",
+    "HMGN2",
+    "TMEM54",
+    "S100A14",
+    "CRIP1",
+    "ANXA11",
+    "SMIM22"
+  ],
+  "overlap_count_min": 5,
+  "overlap_count_max": 81,
+  "overlap_count_mean": 11.331521739130435,
+  "gmt_files": [
+    "..\\png_txt\\raw\\reactome_official\\ReactomePathways.gmt",
+    "..\\png_txt\\raw\\enrichr_MSigDB_Hallmark_2020.gmt"
+  ]
+}
