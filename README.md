@@ -154,15 +154,6 @@ The current launcher uses physical GPUs `2` and `3`, runs one process per split,
 | `--seed` | `42` | Random seed. |
 | `--last_layer` | `11` | Number of final UNI blocks targeted for LoRA adaptation. |
 | `--pathway_box_dim` | `128` | Pathway-box dimension. |
-| `--disable_query_box` | Off | Disable the query-box prediction branch. |
-| `--disable_gene_calibration` | Off | Disable the model's gene-calibration component. |
-| `--disable_post_calibration` | Off | Disable post-training calibration fitting. |
-| `--calibration_fit_split` | `train_val` | Data used to fit post-training calibration. |
-| `--disable_ema` | Off | Disable the moving average of trainable parameters. |
-| `--no_test_ema` | Off | Evaluate without applying EMA weights. |
-| `--test_checkpoint` | `final` | Evaluate the final or best checkpoint. |
-| `--tta_num` | `1` | Number of test-time augmentations, capped at eight by the dataset. |
-| `--use_distribution_calibration` | Off | Enable distribution calibration. |
 
 Automatic mixed precision is enabled by default. In the current parser, passing `--amp` **disables** it (`store_false`). Run `python main.py --help` in the installed environment for the full option list.
 
