@@ -229,5 +229,3 @@ train_data_5fold_multigpu.sh         # Multiple-GPU split launcher
 pathway_resources/                 # Dataset-specific pathway masks
 pretrained/                        # Bundled pretrained-model support code
 ```
-
-See [LICENSE.txt](LICENSE.txt) for the repository license. Bundled pretrained components retain their upstream naming and requirements.
